@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "zif socket")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/240-1280-00-0602J.kicad_sym")(options "")(descr ""))
+  (lib (name "SKHHANA010")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/SKHHANA010.kicad_sym")(options "")(descr ""))
+  (lib (name "ECS-200-S-4X")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/ECS-200-S-4X.kicad_sym")(options "")(descr ""))
+  (lib (name "USB-B-S-X-X-TH")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/USB-B-S-X-X-TH.kicad_sym")(options "")(descr ""))
+  (lib (name "TL2230EEF100")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/TL2230EEF100.kicad_sym")(options "")(descr ""))
+)

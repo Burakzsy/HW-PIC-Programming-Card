@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "buton")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/buton.pretty")(options "")(descr ""))
+  (lib (name "Crystal_20mhz")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/Crystal_20mhz.pretty")(options "")(descr ""))
+  (lib (name "USB_B_TYPE")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/USB_B_TYPE.pretty")(options "")(descr ""))
+  (lib (name "zif")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/zif.pretty")(options "")(descr ""))
+  (lib (name "3d_silkscreen")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/3d_silkscreen.pretty")(options "")(descr ""))
+  (lib (name "dpdt")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/dpdt.pretty")(options "")(descr ""))
+  (lib (name "pushswitch")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/pushswitch.pretty")(options "")(descr ""))
+)
